@@ -22,8 +22,8 @@ Git, Docker, PostgreSQL, IntelliJ, VS Code
 
 Agile/Scrum, Jira, Confluence, CI/CD concepts
 
-##Connect With Me
+###Connect With Me
 
-* Email: [alexandar.nikolic2@gmail.com](alexandar.nikolic2@gmail.com)
+* Email: [alexandar.nikolic2@gmail.com](mailto:alexandar.nikolic2@gmail.com)
 * LinkedIn: [Alexandar Nikolic](https://www.linkedin.com/in/alexandar-nikolic/)
 * Website: [alexandarnikolic.github.io/Portfolio](https://alexandarnikolic.github.io/Portfolio/)
