@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Alex 👋
 
-<!--
-**AlexandarNikolic/AlexandarNikolic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full-stack developer | Web developer**
 
-Here are some ideas to get you started:
+I focus on building solutions that improve and are conscious of the user experience, expanding my skills and knowledge across current and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages:**
+
+TypeScript, Python, C++, SQL, HTML, CSS
+
+**Frameworks & Libraries:**
+
+React, Tailwind, Angular, TensorFlow, Scikit-learn
+
+**Tools & Platforms:**
+
+Git, Docker, PostgreSQL, IntelliJ, VS Code
+
+**Workflow & Methodologies:**
+
+Agile/Scrum, Jira, Confluence, CI/CD concepts
+
+##Connect With Me
+
+* Email: [alexandar.nikolic2@gmail.com](#alexandar.nikolic2@gmail.com)
+* LinkedIn: [Alexandar Nikolic](#linkedin.com/in/alexandar-nikolic)
+* Website: [alexandarnikolic.github.io/Portfolio](#alexandarnikolic.github.io/Portfolio)
